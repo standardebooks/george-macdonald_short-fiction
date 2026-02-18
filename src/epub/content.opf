@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-macdonald/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-18T15:47:44Z</dc:date>
+		<meta property="dcterms:modified">2026-02-18T15:47:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -82,9 +82,9 @@
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">A collection of George MacDonald’s fairy tales, short stories, and novellas.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; is widely regarded as the grandfather of modern fantasy literature, a Scottish author and Christian minister whose imaginative scope laid the foundation for the genre. While he wrote many realistic novels depicting Scottish country life, his enduring legacy rests on his fairy tales and fantasy stories, which deeply influenced literary giants such as W. H. Auden, J. R. R. Tolkien, Madeleine L’Engle, and perhaps most notably, &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;. Lewis famously wrote that he regarded MacDonald as his “master,” crediting MacDonald with “baptizing his imagination.”&lt;/p&gt;
+			&lt;p&gt;Scottish author and Christian minister &lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; is widely regarded as the grandfather of modern fantasy literature, with his imaginative scope laying the foundation for the genre. While he wrote many realistic novels depicting Scottish country life, his enduring legacy rests on his fairy tales and fantasy stories, which deeply influenced literary giants like W. H. Auden, &lt;a href="https://standardebooks.org/ebooks/j-r-r-tolkien"&gt;J. R. R. Tolkien&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/madeleine-lengle"&gt;Madeleine L’Engle&lt;/a&gt;, and perhaps most notably, &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;. Lewis famously wrote that he regarded MacDonald as his “master,” crediting MacDonald with “baptizing his imagination.”&lt;/p&gt;
 			&lt;p&gt;MacDonald’s writing is characterized by a distinctive blend of myth, theology, and the surreal. Unlike the rigid moralizing common in Victorian children’s literature, MacDonald believed that the imagination was a God-given faculty to be explored. His stories often operate on the logic of dreams, bypassing the intellect to speak directly to the subconscious.&lt;/p&gt;
-			&lt;p&gt;Ordered by first date of publication, this collection comprises George MacDonald’s complete body of short fiction. Included among these works is “Cross Purposes,” a whimsical fairy tale in which the Queen of Fairyland, weary of her well-behaved subjects, sends a graceful fairy and a mischievous goblin to bring mortal children to her court—an endeavour that leads to unexpected crossings of paths and enchanting misadventures. Also featured is “The Shadows,” a haunting and allegorical tale that personifies shadows as wise, sorrowful beings who accompany and instruct a lonely man, offering profound reflections on human existence, suffering, and redemption. Taken together, these stories provide a comprehensive view of a writer whose work remains a cornerstone of the fantastic.&lt;/p&gt;
+			&lt;p&gt;Ordered by date of first publication, this collection comprises George MacDonald’s complete body of short fiction. Included among these works is “Cross Purposes,” a whimsical fairy tale in which the Queen of Fairyland, weary of her well-behaved subjects, sends a graceful fairy and a mischievous goblin to bring mortal children to her court—an endeavour that leads to unexpected crossings of paths and enchanting misadventures. Also included is “The Shadows,” a haunting and allegorical tale that personifies shadows as wise, sorrowful beings who accompany and instruct a lonely man, offering profound reflections on human existence, suffering, and redemption. Taken together, these stories provide a comprehensive view of a writer whose work remains a cornerstone of the fantastic.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- TRANSCRIPTIONS -->
@@ -130,9 +130,8 @@
 		<!-- The Cruel Painter; The Castle; The Wow o’ Rivven; The Broken Swords;
 		The Gray Wolf; Uncle Cornelius His Story -->
 		<dc:source>https://catalog.hathitrust.org/Record/006155842</dc:source>
-		<meta property="se:production-notes">The stories are ordered chronologically by publication date. “A Double Story” was also published under the titles “The Lost Princess” and “The Wise Woman.” “The History of Photogen and Nycteris” was also published under the titles “The Day Boy and Night Girl” and “The Romance of Photogen and Nycteris.”</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">222135</meta>
+		<meta property="se:reading-ease.flesch">77.06</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_short-fiction</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
@@ -185,6 +184,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
