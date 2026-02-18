@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Custom CSS for "The Light Princess */
-p strong ~ strong{
+#the-light-princess p strong ~ strong{
 	text-transform: uppercase;
 }
 /* End custom CSS */
