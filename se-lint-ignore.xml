@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="uncle-cornelius-his-story.xhtml">
-		<ignore>
-			<code>y-028</code>
+		<ignore code="y-028">
 			<reason>There is no white space between a number and an £sd currency symbol.</reason>
 		</ignore>
 	</file>
