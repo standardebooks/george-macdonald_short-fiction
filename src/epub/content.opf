@@ -81,7 +81,7 @@
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>A collection of George MacDonald’s fairy tales, short stories, and novellas.</dc:abstract>
+		<meta property="schema:abstract">A collection of George MacDonald’s fairy tales, short stories, and novellas.</meta>
 		<dc:description>
 			&lt;p&gt;Scottish author and Christian minister &lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; is widely regarded as the grandfather of modern fantasy literature, with his imaginative scope laying the foundation for the genre. While he wrote many realistic novels depicting Scottish country life, his enduring legacy rests on his fairy tales and fantasy stories, which deeply influenced literary giants like W. H. Auden, &lt;a href="https://standardebooks.org/ebooks/j-r-r-tolkien"&gt;J. R. R. Tolkien&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/madeleine-lengle"&gt;Madeleine L’Engle&lt;/a&gt;, and perhaps most notably, &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;. Lewis famously wrote that he regarded MacDonald as his “master,” crediting MacDonald with “baptizing his imagination.”&lt;/p&gt;
 			&lt;p&gt;MacDonald’s writing is characterized by a distinctive blend of myth, theology, and the surreal. Unlike the rigid moralizing common in Victorian children’s literature, MacDonald believed that the imagination was a God-given faculty to be explored. His stories often operate on the logic of dreams, bypassing the intellect to speak directly to the subconscious.&lt;/p&gt;
