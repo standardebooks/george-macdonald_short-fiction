@@ -33,18 +33,18 @@
 		<dc:subject id="subject-1">Children's stories, English</dc:subject>
 		<dc:subject id="subject-2">Christian fiction</dc:subject>
 		<dc:subject id="subject-3">Fairy tales</dc:subject>
-		<dc:subject id="subject-4">Conduct of life -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Conduct of life--Juvenile fiction</dc:subject>
 		<dc:subject id="subject-5">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-6">Love stories</dc:subject>
 		<dc:subject id="subject-7">Short stories</dc:subject>
-		<dc:subject id="subject-8">Fairies -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Fairies--Juvenile fiction</dc:subject>
 		<dc:subject id="subject-9">Fairy tales--England</dc:subject>
-		<dc:subject id="subject-10">Highlands (Scotland) -- Fiction</dc:subject>
-		<dc:subject id="subject-11">Princesses -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-12">Scotland -- Fiction</dc:subject>
-		<dc:subject id="subject-13">Fairy tales -- Great Britain</dc:subject>
-		<dc:subject id="subject-14">Kings and rulers -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-15">Parent and child -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-10">Highlands (Scotland)--Fiction</dc:subject>
+		<dc:subject id="subject-11">Princesses--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-12">Scotland--Fiction</dc:subject>
+		<dc:subject id="subject-13">Fairy tales--Great Britain</dc:subject>
+		<dc:subject id="subject-14">Kings and rulers--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-15">Parent and child--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85023798</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
